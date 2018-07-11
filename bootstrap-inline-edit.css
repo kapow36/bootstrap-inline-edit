@@ -1,0 +1,208 @@
+/*Inline Edit Success CSS*/
+@-o-keyframes inline-edit-success-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #dff0d8;
+    }
+
+    66%
+    {
+        background-color: #dff0d8;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@-moz-keyframes inline-edit-success-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #dff0d8;
+    }
+
+    66%
+    {
+        background-color: #dff0d8;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@-webkit-keyframes inline-edit-success-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #dff0d8;
+    }
+
+    66%
+    {
+        background-color: #dff0d8;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@keyframes inline-edit-success-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #dff0d8;
+    }
+
+    66%
+    {
+        background-color: #dff0d8;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+.inline-edit-success
+{
+    -webkit-animation: inline-edit-success-keyframes 2s; /* Safari 4+ */
+    -moz-animation: inline-edit-success-keyframes 2s; /* Fx 5+ */
+    -o-animation: inline-edit-success-keyframes 2s; /* Opera 12+ */
+    animation: inline-edit-success-keyframes 2s; /* IE 10+, Fx 29+ */
+}
+
+/*Inline Edit Error CSS*/
+@-o-keyframes inline-edit-error-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #f2dede;
+    }
+
+    66%
+    {
+        background-color: #f2dede;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@-moz-keyframes inline-edit-error-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #f2dede;
+    }
+
+    66%
+    {
+        background-color: #f2dede;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@-webkit-keyframes inline-edit-error-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #f2dede;
+    }
+
+    66%
+    {
+        background-color: #f2dede;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+@keyframes inline-edit-error-keyframes
+{
+    0%
+    {
+        background-color: #ffffff;
+    }
+
+    33%
+    {
+        background-color: #f2dede;
+    }
+
+    66%
+    {
+        background-color: #f2dede;
+    }
+
+    100%
+    {
+        background-color: #ffffff;
+    }
+}
+
+.inline-edit-error
+{
+    -webkit-animation: inline-edit-error-keyframes 2s; /* Safari 4+ */
+    -moz-animation: inline-edit-error-keyframes 2s; /* Fx 5+ */
+    -o-animation: inline-edit-error-keyframes 2s; /* Opera 12+ */
+    animation: inline-edit-error-keyframes 2s; /* IE 10+, Fx 29+ */
+}
+
+input.no-spinners::-webkit-inner-spin-button,
+input.no-spinners::-webkit-outer-spin-button
+{
+    -webkit-appearance: none;
+    margin: 0;
+}
